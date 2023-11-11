@@ -9,3 +9,4 @@ jobs:
             shield: '["corne_left nice_view_adapter nice_view","corne_right nice_view_adapter nice_view"]'
             nav: '["vi"]'
             kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_EXT_POWER=y"]'
+            alphas: '["QWERTY"]'
