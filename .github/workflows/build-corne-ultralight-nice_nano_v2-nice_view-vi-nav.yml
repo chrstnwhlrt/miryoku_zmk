@@ -10,4 +10,4 @@ jobs:
             nav: '["vi"]'
             kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_EXT_POWER=y"]'
             alphas: '["QWERTY"]'
-            tab: '["QWERTY"]'
+            custom_config: '["#define MIRYOKU_TAP_QWERTY"]'
